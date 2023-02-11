@@ -189,7 +189,7 @@ class Agent1():
         #    param.grad.data.clamp_(-1, 1)
             
         self.optimizer.step()
-j
+
 
 ############## DQN-HER AGENT ######################## DQN_HER AGENT ############
 
